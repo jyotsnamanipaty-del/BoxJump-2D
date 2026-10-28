@@ -28,7 +28,7 @@ Box Jump 2D is a simple 2D platformer where players navigate through a level, co
 
 | Key | Action |
 |---|---|
-| Arrow Keys / A, D | Move the player |
+| Arrow Keys | Move the player |
 | Spacebar | Jump, if configured in the game |
 
 *Controls may vary depending on the final game configuration.*
